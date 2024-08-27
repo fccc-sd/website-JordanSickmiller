@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(1, 59, 55);
+    background-color: rgb(2, 131, 163);
+    text-align: center;
+    font: bold 3em/1.5em italic Arial, Helvetica, sans-serif
+}
+
+h3 {
+    color: #85c7ec;
+    font-size: 1.250em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body {
+    background-color: rgb(2, 85, 78);
+    color: rgb(169, 232, 248);
+    font-size: 1.050em;
+}
