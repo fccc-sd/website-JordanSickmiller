@@ -25,14 +25,52 @@ body {
     font-size: 1.050em;
 }
 
+/*I wouldn't do the rest like this. I just thought I had to.*/
+
 header {
-    
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 main {
-    
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 footer {
-    
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#hobbies {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#bestgames {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#family {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#class {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#favorites {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#sports {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#music {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#bestsongs {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#vacation {
+    font-family:Arial, Helvetica, sans-serif;
 }
