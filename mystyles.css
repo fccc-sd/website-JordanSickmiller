@@ -2,7 +2,7 @@ h1 {
     color: rgb(1, 59, 55);
     background-color: rgb(2, 131, 163);
     text-align: center;
-    font: bold 3em/1.5em italic Arial, Helvetica, sans-serif;
+    font: bold 3em/1.5em italic;
 }
 
 h3 {
@@ -25,52 +25,42 @@ body {
     font-size: 1.050em;
 }
 
-/*I wouldn't do the rest like this. I just thought I had to.*/
-
-header {
-    font-family:Arial, Helvetica, sans-serif;
+ul
+{
+    list-style-position: outside
 }
 
-main {
-    font-family:Arial, Helvetica, sans-serif;
+ol
+{
+    list-style-position: outside
 }
 
-footer {
-    font-family:Arial, Helvetica, sans-serif;
+nav
+{
+    background-color: rgb(8, 180, 152);
+    line-height: 150%;
+    display: block;
+    text-align:center;
 }
 
-#hobbies {
-    font-family:Arial, Helvetica, sans-serif;
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type: none;
 }
 
-#bestgames {
-    font-family:Arial, Helvetica, sans-serif;
+nav a:link
+{
+    text-decoration: none;
 }
 
-#family {
-    font-family:Arial, Helvetica, sans-serif;
+nav a:visited
+{
+    color:rgb(45, 10, 240)
 }
 
-#class {
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-#favorites {
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-#sports {
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-#music {
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-#bestsongs {
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-#vacation {
-    font-family:Arial, Helvetica, sans-serif;
+nav a:hover
+{
+    text-decoration: underline;
 }
