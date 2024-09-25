@@ -64,3 +64,16 @@ nav a:hover
 {
     text-decoration: underline;
 }
+
+table
+{
+    background-color: white;
+}
+
+tr, td, th
+{ 
+    padding: 0px;
+    width: 175px;
+    text-align: left;
+    color: black;
+}
