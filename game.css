@@ -1,0 +1,88 @@
+body
+{
+    text-align: center;
+    background-color: rgb(2, 85, 78);
+    color: rgb(169, 232, 248);
+    font-size: 1.050em;
+}
+
+h1 {
+    color: rgb(1, 59, 55);
+    background-color: rgb(2, 131, 163);
+    text-align: center;
+    font: bold 3em/1.5em italic;
+}
+
+h3 {
+    color: #85c7ec;
+    font-size: 1.250em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul
+{
+    list-style-position: outside
+}
+
+ol
+{
+    list-style-position: outside
+}
+
+nav
+{
+    background-color: rgb(8, 180, 152);
+    line-height: 150%;
+    display: block;
+    text-align:center;
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+nav a:link
+{
+    text-decoration: none;
+}
+
+nav a:visited
+{
+    color:rgb(45, 10, 240)
+}
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+
+table
+{
+    background-color: white;
+}
+
+tr, td, th
+{ 
+    padding: 0px;
+    width: 175px;
+    text-align: left;
+    color: black;
+}
+
+iframe
+{
+    width: 637.5px;
+    height: 425px;
+    border: 0px;
+}
