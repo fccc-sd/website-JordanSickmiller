@@ -23,6 +23,7 @@ body {
     background-color: rgb(2, 85, 78);
     color: rgb(169, 232, 248);
     font-size: 1.050em;
+    margin: 10px;
 }
 
 ul
@@ -38,7 +39,7 @@ ol
 nav
 {
     background-color: rgb(8, 180, 152);
-    line-height: 150%;
+    line-height: 190%;
     display: block;
     text-align:center;
 }
@@ -68,6 +69,7 @@ nav a:hover
 table
 {
     background-color: white;
+    margin: 20px;
 }
 
 tr, td, th
@@ -76,4 +78,9 @@ tr, td, th
     width: 175px;
     text-align: left;
     color: black;
+}
+
+img
+{
+    float: inherit;
 }
