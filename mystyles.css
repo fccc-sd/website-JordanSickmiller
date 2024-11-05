@@ -82,5 +82,5 @@ tr, td, th
 
 img
 {
-    float: inherit;
+    float:inline-start;
 }
