@@ -1,3 +1,11 @@
+body
+{
+    text-align: center;
+    background-color: rgb(2, 85, 78);
+    color: rgb(169, 232, 248);
+    font-size: 1.050em;
+}
+
 h1 {
     color: rgb(1, 59, 55);
     background-color: rgb(2, 131, 163);
@@ -17,13 +25,6 @@ h4,
 h5,
 h6 {
     font-family:Arial, Helvetica, sans-serif;
-}
-
-body {
-    background-color: rgb(2, 85, 78);
-    color: rgb(169, 232, 248);
-    font-size: 1.050em;
-    margin: 10px;
 }
 
 ul
@@ -69,7 +70,6 @@ nav a:hover
 table
 {
     background-color: white;
-    margin: 20px;
 }
 
 tr, td, th
@@ -78,4 +78,11 @@ tr, td, th
     width: 175px;
     text-align: left;
     color: black;
+}
+
+iframe
+{
+    width: 637.5px;
+    height: 425px;
+    border: 0px;
 }
